@@ -1,9 +1,8 @@
-                                                                # Hi 👋, I'm Khushi Agrawal
 
-💻 Full-Stack Developer | 🚀 Backend Enthusiast | 🎯 Problem Solver  
+ # Hi 👋, I'm Khushi Agrawal
 
-
-                           ![Profile views](https://komarev.com/ghpvc/?username=mysterious-cod1004&label=Profile%20views&color=0e75b6&style=flat)
+💻 Full-Stack Developer | 🚀 Backend Enthusiast | 🎯 Problem Solver
+![Profile views](https://komarev.com/ghpvc/?username=mysterious-cod1004&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🛠️ Tech Stack
 
