@@ -1,7 +1,10 @@
 
  # Hi 👋, I'm Khushi Agrawal
 
-💻 Full-Stack Developer | 🚀 Backend Enthusiast | 🎯 Problem Solver
+🚀 **Full Stack Developer | Backend-Focused | Problem Solver**  
+🎯 Passionate about building scalable web applications and learning system-level concepts  
+💡 Strong interest in backend engineering, databases, and real-world product development  
+
 ![Profile views](https://komarev.com/ghpvc/?username=mysterious-cod1004&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🛠️ Tech Stack
@@ -39,5 +42,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushiagrawal&theme=dark)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mysterious-cod1004&theme=react-dark)
+
+## 🤝 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:khushiagrawal10041995@gmail.com)
+
 
 
