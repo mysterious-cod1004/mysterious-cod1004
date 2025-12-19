@@ -26,4 +26,6 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mysterious-cod1004&theme=react-dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mysterious-cod1004&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mysterious-cod1004&layout=compact)
 
