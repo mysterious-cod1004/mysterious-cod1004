@@ -2,7 +2,9 @@
 
 💻 Full-Stack Developer | 🚀 Backend Enthusiast | 🎯 Problem Solver  
 🌱 Currently learning: **Golang,Dart,Docker**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushiagrawal&theme=dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=mysterious-cod1004&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 ## 🛠️ Languages & Tools
