@@ -40,7 +40,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mysterious-cod1004&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushiagrawal&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mysterious-cod1004&theme=dark)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mysterious-cod1004&theme=react-dark)
 
