@@ -36,13 +36,6 @@
 ![SQL](https://img.shields.io/badge/sql-003545?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-
-
-
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="ដាក់សំណើទាញ" />  
-
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mysterious-cod1004&show_icons=true&theme=radical)
